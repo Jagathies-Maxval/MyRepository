@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+TestSuite_Admin,,,2019-02-20 01:13:32,2019-02-20 01:13:39,6.670s,FAILED
+,,,,,,
+Test Cases/RegressionTestCases/TestCase_001,,,2019-02-20 01:13:33,2019-02-20 01:13:39,5.278s,FAILED
+acceptAlert(),,,2019-02-20 01:13:34,2019-02-20 01:13:39,4.083s,FAILED
