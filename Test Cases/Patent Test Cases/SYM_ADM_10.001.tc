@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Step 1: Login and navigate to Import Menu.
+Step 2: Enter Patent/Publication number as mentioned in Example section
+Step 3: Click Import button and click on the &quot;here&quot; link in alert message &quot;Import is in progress. You will be notified via Email upon completion. You can track the status of this import here&quot; 
+Step 4: Click on the Docket number link under Related tab after Import Status changed as &quot;Completed&quot;
+
+Expected Result: 
+Respective Patent/Publicaion record should open with details in it. 
+Note: Inventors of respective records should be added in person object .</description>
+   <name>SYM_ADM_10.001</name>
+   <tag>Import Module</tag>
+   <comment></comment>
+   <testCaseGuid>8b977e50-25e4-48f2-ba90-b6bdd7a19631</testCaseGuid>
+</TestCaseEntity>
